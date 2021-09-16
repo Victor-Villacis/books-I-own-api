@@ -1,0 +1,22 @@
+{
+    "books": [
+      {
+        "id": "0",
+        "title": "Node.js 8 the Right Way",
+        "subtitle": "Practical Server-Side JavaScript That Scales",
+        "author": "Jim R. Wilson",
+        "publisher": "The Pragmatic Bookshelf",
+        "copyright": "2018 The Pragmatic Programmers, LLC.",
+        "ISBN": "ISBN: 13.978-1-68050-195-7"
+      },
+      {
+        "id": "1",
+        "title": "Linux Bible",
+        "subtitle": "The Comprehensive Tutorial Resource",
+        "author": "Christopher Negus",
+        "publisher": "Wiley",
+        "copyright": "2020 by John Wiley & Sons, Inc, Indianapolis, Indiana",
+        "ISBN": "ISBN: 978-1-119-57888-8"
+      }
+    ]
+  }
