@@ -1,0 +1,23 @@
+{
+  "name": "books-i-own-api",
+  "version": "1.0.0",
+  "description": "My Books Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Villacis/books-I-own-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-Villacis/books-I-own-api/issues"
+  },
+  "homepage": "https://github.com/Victor-Villacis/books-I-own-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
